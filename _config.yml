@@ -1,7 +1,7 @@
 name: 'PPC Detective '
 favicon: null
-layout_spectrum: 0.8159699484240264
-typography_spectrum: 0.32462265249341726
+layout_spectrum: 0.24794
+typography_spectrum: 0.42496
 title: PPC Detective
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#f6efdd'
+    - '#2d2e32'
+    - '#3c667c'
+    - '#a19f4a'
   brandStrength: 0.926152732456103
-  lightness: 0.5830551530234516
+  lightness: 0.4375
   saturation: 0.39646657230332494
-  rhythmicContrast: 0.5639141460414976
+  rhythmicContrast: 0.5
 purpose: []
