@@ -2,12 +2,13 @@ name: 'PPC Detective '
 favicon: null
 layout_spectrum: 0.8159699484240264
 typography_spectrum: 0.32462265249341726
+title: PPC Detective
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-56661702-1
   facebook: null
   twitter: null
 opengraph:
